@@ -13,7 +13,7 @@
     "react": "16.14.0",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
-    "react-native-web": "~0.14.13",
+    "react-native-web": "~0.16.5",
     "history": "1.17.0",
     "firebase": "8.2.3",
     "react-router": "^1.0.0-rc3",
