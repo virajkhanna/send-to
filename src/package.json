@@ -24,7 +24,7 @@
     "react-native-paper": "3.6.0",
     "@firebase/app-check": "*",
     "@firebase/app-types": "0.x.2",
-    "react-native-screens": "~3.0.0",
+    "react-native-screens": "~3.3.0",
     "react-native-elements": "*",
     "react-navigation-tabs": "*",
     "react-native-reanimated": "~2.1.0",
