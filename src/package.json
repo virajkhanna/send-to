@@ -23,7 +23,7 @@
     "@expo/vector-icons": "^12.0.0",
     "react-native-paper": "4.9.1",
     "@firebase/app-check": "*",
-    "@firebase/app-types": "0.x.2",
+    "@firebase/app-types": "0.x.3",
     "react-native-screens": "~3.3.0",
     "react-native-elements": "*",
     "react-navigation-tabs": "*",
