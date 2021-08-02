@@ -28,7 +28,7 @@
     "react-native-elements": "*",
     "react-navigation-tabs": "*",
     "react-native-reanimated": "~2.2.0",
-    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/native": "^6.0.0",
     "react-native-gesture-handler": "~1.10.2",
     "react-native-safe-area-context": "3.2.0",
     "ws": "7.4.6",
