@@ -15,7 +15,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
     "react-native-web": "~0.16.5",
     "history": "5.0.0",
-    "firebase": "9.0.1",
+    "firebase": "9.4.0",
     "react-router": "^5.2.0",
     "@firebase/app": "0.x.26",
     "expo-constants": "~11.0.1",
