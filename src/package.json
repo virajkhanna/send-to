@@ -29,7 +29,7 @@
     "react-navigation-tabs": "*",
     "react-native-reanimated": "~2.2.0",
     "@react-navigation/native": "^6.0.2",
-    "react-native-gesture-handler": "~1.10.2",
+    "react-native-gesture-handler": "~2.3.0",
     "react-native-safe-area-context": "3.3.2",
     "ws": "7.4.6",
     "node-fetch": "2.6.1"
